@@ -1,0 +1,9 @@
+ttkbootstrap
+plyer
+pygame
+pystray
+matplotlib
+geocoder
+requests
+tzlocal
+Pillow
